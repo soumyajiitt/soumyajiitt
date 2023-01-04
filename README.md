@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Framework and Node.Js**
 
-- 💬 Ask me about **html, css,javascript,python,c++**
+- 💬 Ask me about **html, css, javascript, python, c++, Data Structures & Algorithms, SQL, Verilog HDL **
 
 - 📫 How to reach me **soumyajitbasak.work@gmail.com**
 
