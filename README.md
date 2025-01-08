@@ -1,7 +1,7 @@
 ![Header](./Github-Banner-Image.png)
 <h3 align="center">Software Developer | Frontend Developer | Builder | Learner </h3>
 
-<h4 align="center">I am an upcoming Graduate student at REVA University. I like to Code, Design, Innovate and Experiment. I am an enthusiastic engineering fresher who is a self-starter and capable to use technical skills for the betterment of the organization and enhance learning in the field of work. Capable of mastering new technologies.</h4>
+<h4 align="center">I am a recently Graduated student from REVA University, having almost 1 year experience as a Frontend Developer. I like to Code, Design, Innovate and Experiment. I am an enthusiastic engineering fresher who is a self-starter and capable to use technical skills for the betterment of the organization and enhance learning in the field of work. Capable of mastering new technologies.</h4>
 <br>
 <h2>🏆 Github Stats</h2>
 
