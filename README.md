@@ -29,7 +29,7 @@
    <a href="https://linkedin.com/in/soumyajiitttt">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/soumyajiitt" target="_blank">
+  <a href="https://soumyajitbasak.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </p>
